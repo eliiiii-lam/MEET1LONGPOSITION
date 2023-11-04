@@ -94,7 +94,7 @@ public class redlongpark extends LinearOpMode {
         //TURN LEFT^^^
 
 
-        encoderDrive(DRIVE_SPEED,50, 50, 1.5);
+        encoderDrive(DRIVE_SPEED,60, 60, 1.5);
 
         //strafe LEFT
 
